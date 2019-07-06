@@ -1,6 +1,6 @@
 # Bachelor's thesis
 ## Limitations of variant consequence predictors
-## Prague, 2018
+Charles University in Prague, 2018
 
 Abstract:
 
