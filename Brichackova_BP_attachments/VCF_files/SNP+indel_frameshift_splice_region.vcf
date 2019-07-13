@@ -1,0 +1,5 @@
+##fileformat=VCFv4.3
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE1
+22	28744616	.	CTGAA	C	.	.	.	GT	1|0
+22	28746006	.	A	T	.	.	.	GT	1|0
