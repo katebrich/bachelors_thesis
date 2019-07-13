@@ -17,6 +17,9 @@ vary. All the tests were made using the Ensembl gene annotation (release 92) and
 GRCh38 reference assembly.
 
 Brichackova_BT_PDFA.pdf - text of the thesis
+
 Brichackova_BP_attachments - additional files to the practical part of the thesis
+
 Brichackova_BP.tex - text of the thesis in LaTex
+
 Brichackova_BP_obhajoba.pdf - presentation used for thesis defense
